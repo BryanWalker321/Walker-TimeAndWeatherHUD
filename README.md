@@ -39,7 +39,7 @@ Ensure your FiveM server includes the following:
 2. Place the folder `walker-timeandweather` into your server's `resources` directory.
 3. Add the following line to your `server.cfg`:
     ```
-    ensure walker-timeandweather
+    ensure Walker-TimeAndWeatherHUD
     ```
 4. Restart your server or refresh your resources.
 
